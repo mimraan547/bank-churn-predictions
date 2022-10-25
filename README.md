@@ -1,6 +1,4 @@
-The app is deployed to Heroku, and can be found at this [URL](https://bank-churn-predictions.herokuapp.com/)
-
-Our full presentation deck [can be found here](https://docs.google.com/presentation/d/1AiL9Zo9WBySLQkjjMcIHuZp4wEC9UnLtXjSaclaICBE/edit?usp=sharing).
+The app can be found at this [URL](https://bank-churn-predictions.herokuapp.com/)
 
 # Churn Modelling - How to predict if a bank’s customer will stay or leave the bank
 
@@ -26,21 +24,6 @@ As mentioned earlier, we also used SMOTE to handle issues with the imbalanced da
 
 ## 4. Load models to display predictions on app
 
-Finally, using Flask and HTML/CSS, we created the user-facing app to add information to our data set matching our initial dataframe to predict the likelihood of a customer departing the bank. This was then deployed to Heroku, and can be found at this URL: https://bank-churn-predictions.herokuapp.com/
-
-## References
-
-- [Kaggle - Churn Modelling Calssification Data Set](https://www.kaggle.com/shrutimechlearn/churn-modelling)
-- https://github.com/zunicd/T2D-Predictions
-- [How to save a scikit-learn pipline with keras regressor inside to disk?](https://stackoverflow.com/questions/37984304/how-to-save-a-scikit-learn-pipline-with-keras-regressor-inside-to-disk)
-- [Problem with serializing and restoring scikit-learn pipelines](https://rebeccabilbro.github.io/module-main-has-no-attribute/)
-- [Edit seaborn legend](https://stackoverflow.com/questions/45201514/edit-seaborn-legend)
-- [How to Easily Deploy Machine Learning Models Using Flask](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4)
-- [Keras Hyperparameter Tuning using Sklearn Pipelines & Grid Search](https://medium.com/@am.benatmane/keras-hyperparameter-tuning-using-sklearn-pipelines-grid-search-with-cross-validation-ccfc74b0ce9f)
-- [Scikit-Learn Tutorial: Machine Learning in Python Examples](https://www.guru99.com/scikit-learn-tutorial.html)
-
-
-
-For a deeper dive into our analysis and process, take a look at [our full presentatio](https://docs.google.com/presentation/d/1AiL9Zo9WBySLQkjjMcIHuZp4wEC9UnLtXjSaclaICBE/edit?usp=sharing)n.
+Finally, using Flask and HTML/CSS, we created the user-facing app to add information to our data set matching our initial dataframe to predict the likelihood of a customer departing the bank. This Can be found at this URL: https://bank-churn-predictions.herokuapp.com/
 
  
